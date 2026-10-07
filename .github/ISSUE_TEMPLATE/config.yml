@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: User guide
+    url: https://github.com/Astro-Atomica/Dream-Creator-Space-Public/blob/main/docs/user-guide.md
+    about: Read the guide to planning a studio and saving your work.
+  - name: Open Dream Creator Space
+    url: https://dreamcreatorspace.com/
+    about: Open the app. Settings → Report a bug includes your version and build.
